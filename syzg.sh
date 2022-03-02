@@ -51,7 +51,7 @@ while [ $opc -ne 4 ] ; do
 
 clear
 
-#presentación
+
 echo ${lightgreen}"███████╗██╗   ██╗███████╗ ██████╗ "
 echo "██╔════╝╚██╗ ██╔╝╚══███╔╝██╔════╝"
 echo "███████╗ ╚████╔╝   ███╔╝ ██║  ███╗"
@@ -61,8 +61,8 @@ echo "╚══════╝   ╚═╝   ╚══════╝ ╚══�
 echo "$normal"
 sleep 1
 
-#autor
-echo ${LIGHTAQUA}"Autor    : syzg"
+
+echo ${aqua}"Autor    : syzg"
 sleep 1
 echo "Good Tool"
 sleep 1
@@ -70,7 +70,7 @@ echo "Enjoy!"
 sleep 1
 echo "$normal"
 
-#menú
+
 echo ${GREEN}"[1] IP LOGGER"
 echo "[2] DNI "
 echo "[3] NumVerify "
